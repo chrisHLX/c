@@ -1,2 +1,2 @@
 # c
-Personal C projects
+CS50 concepts implementation in C
